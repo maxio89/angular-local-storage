@@ -1,0 +1,6 @@
+{
+    "name": "angular-local-storage",
+    "main": [
+        "angularLocalStorage.js"
+    ]
+}
